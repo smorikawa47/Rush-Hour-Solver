@@ -1,3 +1,13 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# intelliJ IDE files
+.idea/
+*.iml
+.gradle/
+gradle/
+gradlew
+*.bat
+.out/
+.DS_Store
