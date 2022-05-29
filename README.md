@@ -22,3 +22,14 @@ OD1
 OD1
 XR1
 ```
+
+Rush Hour Solver solves **the most difficul**t board:
+```
+OPPPAA
+OBCC.Q
+OBXX.Q
+RRRD.Q
+..EDFF
+GGE...
+```
+In **0.69 seconds**
