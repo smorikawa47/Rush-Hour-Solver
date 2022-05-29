@@ -1,4 +1,4 @@
-# Rush-Hour-Solver
+# Rush Hour Solver
 
 ## About
 Given a board file for example:
