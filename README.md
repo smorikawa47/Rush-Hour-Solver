@@ -23,7 +23,7 @@ OD1
 XR1
 ```
 
-The program solves **the most difficult** board:
+The program solves **the most difficult** board (D35.txt):
 ```
 OPPPAA
 OBCC.Q
