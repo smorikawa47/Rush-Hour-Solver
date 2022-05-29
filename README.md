@@ -23,7 +23,7 @@ OD1
 XR1
 ```
 
-Rush Hour Solver solves **the most difficul**t board:
+The program solves **the most difficul**t board:
 ```
 OPPPAA
 OBCC.Q
