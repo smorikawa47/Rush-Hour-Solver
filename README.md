@@ -24,6 +24,7 @@ OD1
 XR1
 ```
 
+## Result
 The program solves **the most difficult** board (D35.txt):
 ```
 OPPPAA
