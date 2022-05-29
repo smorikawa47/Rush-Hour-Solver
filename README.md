@@ -1,5 +1,6 @@
 # Rush-Hour-Solver
 
+## About
 Given a board file for example:
 ```
 AA...O
