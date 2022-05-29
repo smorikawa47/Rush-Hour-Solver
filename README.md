@@ -23,7 +23,7 @@ OD1
 XR1
 ```
 
-The program solves **the most difficul**t board:
+The program solves **the most difficult** board:
 ```
 OPPPAA
 OBCC.Q
@@ -32,4 +32,4 @@ RRRD.Q
 ..EDFF
 GGE...
 ```
-In **0.69 seconds**
+In **0.69** seconds
